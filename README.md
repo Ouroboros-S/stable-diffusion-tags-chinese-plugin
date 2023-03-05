@@ -11,10 +11,10 @@ stable-diffusion-webui 10万tag简体中文翻译
 
 stable-diffusion-webui\extensions\a1111-sd-webui-tagcomplete\tags 目录下，然后按照下面图进行设置，重启即可出现10万提示
 
-![tag_autocomplete_light](https://user-images.githubusercontent.com/34448969/208306863-90bbd663-2cb4-47f1-a7fe-7b662a7b95e2.png)
+![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/stable-diffusion-tag-chinese-plugin/main/img/1.png)
 
-![tag_autocomplete_light](https://user-images.githubusercontent.com/34448969/208306863-90bbd663-2cb4-47f1-a7fe-7b662a7b95e2.png)
+![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/stable-diffusion-tag-chinese-plugin/main/img/2.png)
 
-![tag_autocomplete_light](https://user-images.githubusercontent.com/34448969/208306863-90bbd663-2cb4-47f1-a7fe-7b662a7b95e2.png)
+![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/stable-diffusion-tag-chinese-plugin/main/img/3.png)
 
-![tag_autocomplete_light](https://user-images.githubusercontent.com/34448969/208306863-90bbd663-2cb4-47f1-a7fe-7b662a7b95e2.png)
+![tag_autocomplete_light](https://raw.githubusercontent.com/inlhx/stable-diffusion-tag-chinese-plugin/main/img/4.png)
